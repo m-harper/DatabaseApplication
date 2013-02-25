@@ -1,2 +1,2 @@
 all:
-	g++ file_reader.cpp -o Database
+	g++ customer_reader.cpp -o CustomerReader
